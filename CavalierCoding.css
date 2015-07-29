@@ -1,0 +1,89 @@
+Page Created by Jack Taylor - Jul 23 2015 
+body {
+	margin: 0;
+}
+
+.Banner {
+	width: 100%;
+	padding: 0;
+}
+
+.Nav {
+	list-style-type: none;
+	overflow: hidden;
+	float: left;
+	
+}
+a.Nav {
+	background-color: #000080;
+	border-style: solid;
+	color: white;
+	font-style: none;
+    width: 175px;
+    height: 50px;
+    text-align: center;
+    font-size: 30pt;
+   
+}
+
+p.Nav {
+	background-color: #000080;
+	border-style: solid;
+	color: white;
+	font-style: none;
+    width: 175px;
+    height: 50px;
+    text-align: center;
+    font-size: 30pt;
+    padding: 0;
+}
+
+.News {
+	display: block;
+	background-color: #800000;
+	border-radius: 5px;
+	text-decoration: italic;
+	font-size: 13pt;
+	text-align: justify;
+	vertical-align: center;
+	width: 50%;
+	float: left;
+}
+
+.UpcomingEvents {
+	display: block;
+	background-color: #000080;
+	border-radius: 5px;
+	text-decoration: italic;
+	font-size: 13pt;
+	float: right;
+	width: 50%;
+	text-align: justify;
+}
+
+.IntroText {
+text-align: center;
+clear: left;
+font-size: 36pt;
+}
+
+.Content {
+text-align: justify;
+display: inline-block;
+font-family: arial, sans-serif;
+}
+
+h4 {
+	text-align: center;
+	font-size: 24pt
+	clear: left;
+}
+
+p {
+	font-size: 11pt;
+}
+
+figure {
+	margin: 0;
+	padding: 10px;
+}
